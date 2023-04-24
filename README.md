@@ -5,6 +5,7 @@
 !\[my badge\](https://badgen.net/badge/License/MIT/purple?) 
 !\[my badge\](https://badgen.net/badge/Language/Javascript/blue?) 
 !\[my badge\](https://badgen.net/badge/Tool/Node.js/red?)
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Description
 
