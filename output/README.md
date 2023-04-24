@@ -1,11 +1,11 @@
 
   # README Generator
 
-  ![License Badge](https://img.shields.io/badge/license-MIT-purple.svg)
+  ![license](https://img.shields.io/badge/License-MIT-purple)
 
   ## Description
 
-  This will help you create a proffesional README file.
+  This tool can help you create professional READMEs
 
   ## Table of Contents
 
@@ -19,11 +19,11 @@
 
   ### Installation
 
-  Please install node.js.
+  Please install node.js
 
   ### Usage
 
-  It will prompt you to answer questions after entering "node index.js" in the terminal.
+  Please answer all the questions
 
   ### Tests
 
@@ -31,7 +31,7 @@
 
   ### License
 
-  This project is using MIT license. More information at [Licenses](https://choosealicense.com/licenses/MIT).
+  This project is using MIT license. More information at [Licenses](https://choosealicense.com/licenses/mit).
 
   ### Credits
 
@@ -39,10 +39,10 @@
 
   ### Links
 
-  You can find my deployed website at No link
+  You can find my deployed website at [Website](https://github.com/Sabplpz/Challenge-09).
 
   ### Contact
 
-  You can find more of my work at [sabplpz](https://github.com/sabplpz)
+  You can find more of my work at [Github](https://github.com/sabplpz)
 
   
